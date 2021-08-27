@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_calendar.xml" value="0.26262626262626265" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.346875" />
+        <entry key="app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.3609375" />
+        <entry key="app/src/main/res/layout/calendar_cell.xml" value="0.3609375" />
+        <entry key="app/src/main/res/layout/calendar_cell_weekly.xml" value="0.19947916666666668" />
+        <entry key="app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.3609375" />
+        <entry key="app/src/main/res/layout/home_feed_dialog_fragment.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/single_item_month.xml" value="0.3609375" />
+        <entry key="app/src/main/res/layout/single_item_year.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
